@@ -1,0 +1,24 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFFF1A89F",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
+      {
+        "server_address": "iot.semtech.com", 
+        "serv_port_up": 1680, 
+        "serv_port_down": 1680, 
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 52.307262,
+     "ref_longitude": 4.946761,
+     "ref_altitude": 10,
+     "contact_email": "patrickwinkelaar@betronic.nl",
+     "description": "Betronic BV - Gateway (AMS)"
+  }
+}
